@@ -63,7 +63,7 @@
     },
     {
       "identifier": "2",
-      "name": "social media",
+      "name": "balayya",
       "publisher": "stickers Raja",
       "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/tray/bala.png",
       "publisher_email":"stickersraja@gmail.com",
@@ -129,6 +129,126 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/btech8.png",
+          "emojis": ["🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "most used",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/tray/most.png",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most1.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most2.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most3.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most4.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most5.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most6.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most7.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most8.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most9.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most10.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most11.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most12.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most13.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most14.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most15.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most16.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most17.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most18.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most19.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/most20.png",
+          "emojis": ["🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "julayi",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/tray/julayi.png",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/julayi1.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/julayi2.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/julayi3.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/julayi4.png",
           "emojis": ["🙂"]
         }
       ]
