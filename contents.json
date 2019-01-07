@@ -3,32 +3,60 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Balayya",
+      "name": "social media",
       "publisher": "stickers Raja",
-      "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/trayicons/tray_bala.png",
+      "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/tray/social.png",
       "publisher_email":"stickersraja@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala1.png",
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social1.png",
           "emojis": ["🙂"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala2.png",
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social2.png",
           "emojis": ["🙂"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala3.png",
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social3.png",
           "emojis": ["🙂"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala4.png",
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social4.png",
           "emojis": ["🙂"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala5.png",
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social5.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social6.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social7.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social8.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social9.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social10.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social1.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/social2.png",
           "emojis": ["🙂"]
         }
       ]
