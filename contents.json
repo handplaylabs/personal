@@ -913,6 +913,74 @@
           "emojis": ["🙂"]
         }
       ]
+    },
+    {
+      "identifier": "15",
+      "name": "Good Night",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/tray/viva.png",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva1.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva2.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva3.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva4.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva5.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva6.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva7.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva8.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva9.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva10.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva11.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva12.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva13.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva14.png",
+          "emojis": ["🙂"]
+        }
+      ]
     }
   ]
 }
