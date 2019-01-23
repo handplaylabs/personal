@@ -849,7 +849,7 @@
     {
       "identifier": "14",
       "name": "Good Night",
-      "publisher": "Viva Harsha",
+      "publisher": "stickers raja",
       "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/tray/gn.png",
       "publisher_email":"stickersraja@gmail.com",
       "publisher_website": "",
@@ -916,7 +916,7 @@
     },
     {
       "identifier": "15",
-      "name": "Good Night",
+      "name": "Viva Harsha",
       "publisher": "stickers Raja",
       "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/tray/viva.png",
       "publisher_email":"stickersraja@gmail.com",
@@ -978,6 +978,50 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/viva14.png",
+          "emojis": ["🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Nani",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/tray/nani.png",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/nani1.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/nani2.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/nani3.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/nani4.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/nani5.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/nani6.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/nani7.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/nani8.png",
           "emojis": ["🙂"]
         }
       ]
