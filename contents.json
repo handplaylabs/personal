@@ -1121,7 +1121,7 @@
           "emojis": ["🙂"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/va2.png",
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/va14.png",
           "emojis": ["🙂"]
         },
         {
@@ -1158,6 +1158,10 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/va12.png",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/stickers/va13.png",
           "emojis": ["🙂"]
         }
       ]
